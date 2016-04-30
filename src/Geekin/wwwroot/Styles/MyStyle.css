@@ -1,0 +1,49 @@
+﻿body {
+    background-color: #477C67;
+}
+
+#container
+{
+    width:900px;
+    margin:0 auto;
+    overflow:auto;
+    background-color:red;
+}
+#header
+{
+    height:90px;
+}
+#nav
+{
+    overflow:auto;
+}
+#nav ul
+{
+    list-style:none;
+    height:30px;
+    padding:0px;
+    margin:0px;
+}
+#nav ul li
+{
+    float:left;
+    margin:10px;
+}
+#main
+{
+    overflow:auto;
+}
+#main_left
+{
+    float:left;
+    width:600px;
+}
+#main_right
+{
+    float:left;
+    width:300px;
+}
+#footer
+{
+    height:40px;
+}
